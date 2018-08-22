@@ -7,7 +7,7 @@ Author: [Wires (AndreRl)](https://oseax.com)
 General
 -----------
 
-This plugins help you moderate your forum by automatically looking out for suspicious users and reprimanding them. The plugin works by checking how many times a certain user's post has been reported and then if necessary, dishes out the appropriate action. The triggers which will activate an action include:
+This plugins help you moderate your forum by automatically looking out for suspicious users and reprimanding them when no moderators are online. The plugin works by checking how many times a certain user's post has been reported and then if necessary, dishes out the appropriate action. The triggers which will activate an action include:
 
 - Post count
 - Join Date
