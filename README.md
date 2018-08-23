@@ -9,17 +9,18 @@ General
 
 This plugin helps you moderate your forum by automatically looking out for suspicious users and reprimanding them when no moderators are online. The plugin works by checking how many times a certain user's post has been reported and then if necessary, dishes out the appropriate action. The triggers which will activate an action include:
 
-- Post count
+- Post Count
 - Join Date
 - Warnings
+- Previous Reports
 
 Once multiple triggers and requirements have been met, one of the following actions will take place:
 
 - Moderate Posts
-- Apply automatic warning
+- Apply Automatic Warning
 - Purge Spammer
 
-By default, actions will only take place if the reporter's account is seen to be genuine. An account is seen to be genuine if their join date is MORE THAN or EQUAL TO `1 week` and has `zero` warnings.
+By default, actions will only take place if the reporter's account is seen to be genuine. An account is seen to be genuine if their join date is MORE THAN or EQUAL TO `1 week`, has MORE THAN OR EQUAL TO `10` posts and `zero` warnings.
 
 Bugs, Suggestions and Comments
 -----------
