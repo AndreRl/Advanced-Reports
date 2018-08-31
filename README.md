@@ -1,6 +1,6 @@
 Advanced-Reports
 ================
-Current version: 1.00 (Unstable)
+Current version: 1.00 (Stable)
 
 Author: [Wires (AndreRl)](https://oseax.com)
 
@@ -13,14 +13,17 @@ This plugin helps you moderate your forum by automatically looking out for suspi
 - Join Date
 - Warnings
 - Previous Reports
+- Report Count of X Content
 
 Once multiple triggers and requirements have been met, one of the following actions will take place:
 
 - Moderate Posts
 - Apply Automatic Warning
 - Purge Spammer
+- Unapprove Post
+- Friendly Reminder PM
 
-By default, actions will only take place if the reporter's account is seen to be genuine. An account is seen to be genuine if their join date is MORE THAN or EQUAL TO `1 week`, has MORE THAN OR EQUAL TO `10` posts and `zero` warnings.
+By default, actions will only take place if the reporter's account is seen to be genuine. An account is seen to be genuine if their join date is MORE THAN or EQUAL TO `3 Days`, `Two Weeks` or `One Week`, has MORE THAN OR EQUAL TO `X` amount of posts and `zero` warnings.
 
 Bugs, Suggestions and Comments
 -----------
