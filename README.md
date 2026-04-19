@@ -2,7 +2,7 @@ Advanced-Reports
 ================
 Current version: 1.00 (Stable)
 
-Author: [WAndreRl](https://oseax.com)
+Author: [AndreRl](https://oseax.com)
 
 General
 -----------
